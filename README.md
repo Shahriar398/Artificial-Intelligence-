@@ -39,7 +39,7 @@ This repository is created to:
 
 YOLO badge test
 
-
+---
 
 ⭐ Feel free to explore the notebook and suggest improvements!
 
