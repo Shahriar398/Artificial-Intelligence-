@@ -1,8 +1,3 @@
-<<<<<<< HEAD
-# Artificial-Intelligence-
-# Artificial-Intelligence-
-# Demo
-=======
 # 🤖 Artificial Intelligence
 
 Welcome to my Artificial Intelligence course repository.  
@@ -46,4 +41,4 @@ This repository is created to:
 
 
 ⭐ Feel free to explore the notebook and suggest improvements!
->>>>>>> 839a9e9a2955d2f2760b2ebb04c3ba53623ec4b2
+
